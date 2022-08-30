@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exalted-strata-114009",
+  "private_key_id": "af0d068e6dc4c227e34c7f553b2bbd1ce204915c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCIG5CFQNMbLXn+\nDGcbzCWnzTBdjF4JeuJrZ7naawAFIsRaCKg4j7GPCdcu1oZHl3N4acO8jH/da85t\n7B8FmOnl23valktFetRwcZGatH41JSLHR/F3W0gRm+2jl7MXI3fmMi4+WCTdQOck\n6TYVeGnFioPDFsmpELgETKm1jVI9STZWzPBFBUEnxl4zF6NKyncH0z7QQ1MR9eIL\n3Hlza6duolzCQal3mSjVAo9GFI4wz3gV7fK7nf6ds8SU9noSCpXEiSRCrLMMhhE6\ngFlgkKx7N22DpkxxSKRz5EYXZFGJNDQEOYBTqAuNSA6pQ0qcS+pKPSPxT0FdWgkC\nm+xyHxwxAgMBAAECggEAP+otzh14ZQlQgbfiTX/q6OcmwK9TU4FUxRojAQoBKug+\nK4doM5NqzqBQ38pWqVTaISANjkOuIdTnzd+1W6QIpmuQuD+enkSFcT4roWoD4EIN\nmGZU4ndHmxlNmWZ577I0sjE7XQR4XzwEr2UihCeVB/I5WMohLdbPixlTEpIIHgXN\nepvVXOKawPY6qQF9hGUJYWmH3QABGOZ1YwZCLSAVGQameJXXgZd8pMM5ESkLCEI6\n9OA3/8oCCYKZ+8benQ/EObhyP/4+y1MPDC/4V5tD0bxh+yGrApmXV5XHxLEPRBf2\nkVuQNzBViIuOpfvPRpfnoyE+idmPlVVvNhGbwZKrZwKBgQC+COJAG7JXIkLaCJGg\nJiBN389VE/BokALtzOmIQcL7EeyP6+4OgS5uOqQ6ebSwByb4DWIQJaQ4Rxjh5GmY\nfww+HOGnoPYfC7xOqicCV9sCyFi/k+bKWzSl3zjDhcKJdjGFd7YU8hTNHfbUU6D6\nvni6ojSGvEHjbCk7Saa/qa2E8wKBgQC3Woulx0J4y99HVRdWSA8CdcE27eO9t+8z\nPITSoRwKy3hxwQRCqhAwxmG5/dJdEHSprqhI6uWu70Ha0C+hNBydTu8WPw/ylwa4\nxnv/eZNd/EkX/ZnZmdS1ktwWA+XVfYuWWjhEYgHfD/OKlcOsrtZmNjHIvYRwnQvy\n8EWTtDBzSwKBgQCZZ0J8zd7hR97/cvtbdGuPcaRE4ZuoTNiQbmH2hF+JnaaBZ8r8\nGnwIr33zVlvt3Vgv1V3b+wbeB0am02QKnkSbv2TJlL4Zwbd5KRHkald5n5FE1Xfw\n0j9lxxRjgY7QuICxZTmvHtx72DxwmjHROADtaBNO0Jm/pIiEO6hIAAj60QKBgQCT\nHLQlPB4qW7F3Q1+pG8HnQGHZV7+9zeG/Y1RSx29/fcfSxYJMlrTM3a81kuEBSJ3C\nM1/UuZu140Qcc6NznSNEWDvexpReGS0MfjypO3uxEiX3eMPDYvjXAtFRXKlAxS2F\nYjf5LgXAWsUWMZnBaLqfYeZJ4T1tOaSHtJ6upwmkxwKBgQCUc6OSXpCZlazlaBCr\n8Ir3yeOj3l4c6TukRNOhb6w0Mq80TVuNNAueNRtB29MV2SygIXdoGcdDaZo0mrUa\n8fYg9K1mruVlNRwXg3VK7DAc8bOV71VBV/NthUHs1hAx+J6JCws8w8rPJWSXAecy\nnsqe8OkMjFy8mxaBzePdFXjIZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "youjoketts@exalted-strata-114009.iam.gserviceaccount.com",
+  "client_id": "106209391719686926012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youjoketts%40exalted-strata-114009.iam.gserviceaccount.com"
+}
